@@ -1,1 +1,2 @@
 # -House-Price-Prediction-project
+It predict the prices of houses based on various features such as number of bedrooms, square footage, location, and year built. It starts by exploring the dataset, performing EDA to understand the distribution of features and their correlation with the target variable. Then, engineered new features based on domain knowledge and performed feature selection to identify the most important features. Finally, various regression models such as linear regression, decision tree, and random forest are trained.
